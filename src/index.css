@@ -1,3 +1,23 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+  --background : #1a0505;
+  --accent: #e41c11;
+}
+
+/* Custom CSS */
+body {
+  background-color: var(--background);
+}
+
+.a-link {
+  color: var(--accent);
+}
+
+.a-link:hover {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 2px;
+}
