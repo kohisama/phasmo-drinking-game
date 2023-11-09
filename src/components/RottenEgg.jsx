@@ -3,7 +3,7 @@ import React from 'react'
 const RottenEgg = () => {
   return (
     <>
-      <div className='bg-secondary rounded-xl p-3 py-6 sm:p-5 md:px-7'>
+      <div className='bg-secondary rounded-xl p-3 py-6 sm:p-5 sm:py-7 md:px-7'>
         <div className='mb-4'>
           <h3 className='font-medium text-xl md:text-2xl leading-3 sm:leading-8 sm:mt-0 mb-2'>
             Rotten Egg

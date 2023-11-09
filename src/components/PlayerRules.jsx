@@ -14,13 +14,13 @@ const PlayerRules = () => {
   return (
     <div className='w-full pb-14'>
       <div className='w-full max-w-[1440px] mx-auto'>
-        <div className='flex flex-col text-default text-lg px-6'>
-          <h2 className='text-3xl font-bold mb-5'>Player Rules</h2>
-          <div className='py-5 pl-8 bg-secondary rounded-xl'>
-            <ul className='list-disc ml-3'>
+        <div className='flex flex-col text-default text-base md:text-lg px-4'>
+          <h2 className='text-2xl md:text-3xl font-bold mb-5'>Player Rules</h2>
+          <div className='p-3 py-6 sm:p-5 sm:py-7 md:px-7 bg-secondary rounded-xl'>
+            <ul className='list-disc flex flex-col gap-3 ml-5'>
               {PLAYER_RULES.map((items,index) => {
                 return (
-                  <li key={index} className='pb-1'>{items}</li>
+                  <li key={index}>{items}</li>
                 )
               })}
             </ul>
