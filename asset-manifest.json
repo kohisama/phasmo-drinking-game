@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/phasmo-drinking-game/static/css/main.b07661e4.css",
-    "main.js": "/phasmo-drinking-game/static/js/main.6281be75.js",
+    "main.css": "/phasmo-drinking-game/static/css/main.acf81e76.css",
+    "main.js": "/phasmo-drinking-game/static/js/main.5c9208d0.js",
     "index.html": "/phasmo-drinking-game/index.html",
-    "main.b07661e4.css.map": "/phasmo-drinking-game/static/css/main.b07661e4.css.map",
-    "main.6281be75.js.map": "/phasmo-drinking-game/static/js/main.6281be75.js.map"
+    "main.acf81e76.css.map": "/phasmo-drinking-game/static/css/main.acf81e76.css.map",
+    "main.5c9208d0.js.map": "/phasmo-drinking-game/static/js/main.5c9208d0.js.map"
   },
   "entrypoints": [
-    "static/css/main.b07661e4.css",
-    "static/js/main.6281be75.js"
+    "static/css/main.acf81e76.css",
+    "static/js/main.5c9208d0.js"
   ]
 }
